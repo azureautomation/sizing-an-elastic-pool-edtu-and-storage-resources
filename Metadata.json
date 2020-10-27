@@ -1,0 +1,20 @@
+{
+    "Author": "Mohamed Baioumy - MSFT",
+    "ContentSize": 43770,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/sizing-an-elastic-pool-edtu-and-storage-resources/master/Sizing-AzureSQLDB-ElasticPools.graphrunbook",
+    "DownloadCount": 1862,
+    "Id": "Sizing-an-Elastic-Pool-c92d6ec4",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 74,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-5-4T00:00:00",
+    "RunbookKind": 3,
+    "RunbookKindString": "Graphical Powershell",
+    "Summary": "This runbook sizing an elastic pool\u00a0set Maximum DTUs utilized by all databases in the pool\u00a0\u00a0. And set Maximum storage bytes utilized by all databases in the pool. You can look up the available characteristics \u00a0\u00a0and tiers on https://docs.microsoft.com/en-us/azure/sql-database/sql",
+    "Title": "Sizing an Elastic Pool eDTU and Storage resources",
+    "UpdatedDate": "2017-5-4T00:00:00",
+    "Url": "https://github.com/azureautomation/sizing-an-elastic-pool-edtu-and-storage-resources",
+    "UserTags": "Windows Azure SQL Database, Azure Automation, Graphical Runbook"
+}
